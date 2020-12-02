@@ -1,0 +1,8 @@
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>Heyo I'm <a href="https://alexis.kr">Alexis</a>.<br> A Full Stack Engineer based in Kansas City, Kansas.</samp>
+  <br>
+  <br>
+</p>
