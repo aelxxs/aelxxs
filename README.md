@@ -1,4 +1,4 @@
-### ಥ_ಥ In search of inspiration ~
+### ಥ_ಥ 
 
 Alexis Vielma • B.Sc. CS Student @ The University of Kansas.
 
