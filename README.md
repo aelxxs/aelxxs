@@ -1,4 +1,4 @@
-### ´ ▽ \` )ﾉ
+### ´ ▽ \` )ﾉ 🇲🇽 🇺🇲
 
 Alexis Vielma – B.Sc. CS [`@KU`](https://ku.edu 'School Website')
 
