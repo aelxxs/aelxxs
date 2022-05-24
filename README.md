@@ -1,6 +1,7 @@
-**Alexis Vielma** – B.Sc. CS [`@KU`](https://ku.edu 'School Website')
+### **Alexis Vielma** – B.Sc. CS [`@KU`](https://ku.edu 'School Website') 
 
-[`@email`](mailto:contact@alexis.kr 'Contact Me') · [`/website`](https://alexis.kr 'Peronsal Website') · [`/linkedin`](https://www.linkedin.com/in/aelxxs/ 'LinkedIn')
+<a href="mailto:contact@alexis.kr" target="_blank">`@`</a> · <a href="https://alexis.kr" target="_blank">`/website`</a>  <a href="https://www.linkedin.com/in/aelxxs/" target="_blank">`/linkedin`</a>
 
-⇢ `.js` `.ts` `.py`
+
+`.js` `.ts` `.py`
 
