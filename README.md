@@ -1,4 +1,4 @@
-### Alexis Vielma – B.Sc. CS [`@KU`](https://ku.edu 'School Website') '25
+### Alexis Vielma – 🎓 B.Sc. CS [`@KU`](https://ku.edu 'School Website') '25
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=aelxxs)
 
