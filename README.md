@@ -13,4 +13,4 @@
 —
 `.js` `.ts` `.py`
 
-**Currently**: Working on various side projects
+**Currently**: Working on various side projects.
