@@ -6,11 +6,11 @@
 
 `SUM 2022`: Production Engineering Fellow [`@MLH`](https://fellowship.mlh.io/ 'MLH') ([`@Meta`](https://meta.com/ 'Meta'))
 
-`SUM 2023`: Web Development Intern [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
+`SUM 2023`: SWE Intern [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
 
 `FAL 2023`: IT Director [`@KJHK 90.7 FM`](https://kjhk.org 'KJHK 90.7 FM') & SWE [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
 
 —
 `.js` `.ts` `.py`
 
-**Currently**: Working on various side projects.
+**Currently**: Founding Engineer [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
