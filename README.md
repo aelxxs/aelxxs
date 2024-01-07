@@ -13,4 +13,4 @@
 —
 `.js` `.ts` `.py`
 
-**Currently**: Founding Engineer [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
+**Currently**: SWE [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
