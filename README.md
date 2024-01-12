@@ -10,6 +10,8 @@
 
 `FAL 2023`: IT Director [`@KJHK 90.7 FM`](https://kjhk.org 'KJHK 90.7 FM') & SWE [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
 
+`SUM 2024`: ? [email me](mailto:hi@alexis.lol)
+
 —
 `.js` `.ts` `.py`
 
