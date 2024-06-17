@@ -15,4 +15,4 @@
 —
 `.js` `.ts` `.py`
 
-**Currently**: SWE [`@Lightbulb.ai`](https://lightbulb.ai/ 'Lightbulb.ai')
+**Currently**: FEE Intern [`@Amazon`](https://amazon.com/ 'Amazon')
