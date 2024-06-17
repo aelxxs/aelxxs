@@ -10,6 +10,8 @@
 
 `SUM 2024`: FEE Intern [`@Amazon`](https://amazon.com)
 
+`FAL 2024`: IT Director [`@KJHK 90.7 FM`](https://kjhk.org 'KJHK 90.7 FM') 
+
 —
 `.js` `.ts` `.py`
 
