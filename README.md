@@ -15,4 +15,4 @@
 —
 `.js` `.ts` `.py`
 
-**Currently**: FEE Intern [`@Amazon`](https://amazon.com/ 'Amazon')
+**Currently**: Unemployed Student
