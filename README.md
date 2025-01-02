@@ -15,4 +15,4 @@
 —
 `.js` `.ts` `.py`
 
-**Currently**: Unemployed Student
+**Currently**: Last semester of undergrad. Incoming FEE @ Amazon Fall 2025
