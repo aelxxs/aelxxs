@@ -15,4 +15,4 @@
 —
 `.js` `.ts` `.py`
 
-**Currently**: Last semester of undergrad. Incoming FEE @ Amazon Fall 2025
+**Currently**: Last semester of undergrad. Incoming FEE @ AWS 2025
