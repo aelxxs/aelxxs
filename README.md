@@ -21,3 +21,6 @@
 `.js` `.ts` `.py`
 
 **Currently**: Last semester of undergrad.
+
+[![Recently Played](https://lastfm-recently-played.vercel.app/api?user=aelxxs&count=1)](https://www.last.fm/user/aelxxs)
+
