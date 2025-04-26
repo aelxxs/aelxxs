@@ -18,7 +18,7 @@
 `FAL 2024`: IT Director [`@KJHK 90.7 FM`](https://kjhk.org 'KJHK 90.7 FM') 
 
 —
-`.js` `.ts` `.py`
+`.ts` `.py`
 
 **Currently**: Last semester of undergrad.
 
