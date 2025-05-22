@@ -20,7 +20,7 @@
 —
 `.ts` `.py`
 
-**Currently**: Last semester of undergrad.
+**Currently**: Enjoying my last summer break.
 
 [![Recently Played](https://lastfm-recently-played.vercel.app/api?user=aelxxs&count=1)](https://www.last.fm/user/aelxxs)
 
