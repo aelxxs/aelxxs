@@ -2,6 +2,7 @@
 
 [`@`](mailto:hi@alexis.lol 'Contact Me') · [`/website`](https://alexis.lol 'Peronsal Website') · [`/linkedin`](https://www.linkedin.com/in/aelxxs/ 'LinkedIn')
 
+Incoming @ AWS
 
 <details>
   <summary>🗂️</summary>
