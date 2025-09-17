@@ -2,7 +2,7 @@
 
 [`@`](mailto:hi@alexis.lol 'Contact Me') · [`/website`](https://alexis.lol 'Peronsal Website') · [`/linkedin`](https://www.linkedin.com/in/aelxxs/ 'LinkedIn')
 
-Incoming @ AWS
+Front End Engineer @ AWS 🌧️
 
 <details>
   <summary>🗂️</summary>
@@ -21,7 +21,7 @@ Incoming @ AWS
 —
 `.ts` `.py`
 
-**Currently**: Enjoying my last summer break.
+**Currently**: Enjoying the PNW
 
 [![Recently Played](https://lastfm-recently-played.vercel.app/api?user=aelxxs&count=1)](https://www.last.fm/user/aelxxs)
 
