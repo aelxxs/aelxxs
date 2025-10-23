@@ -14,9 +14,12 @@ Front End Engineer @ AWS 🌧️
   `FAL 2023`: IT Director [`@KJHK 90.7 FM`](https://kjhk.org 'KJHK 90.7 FM') & SWE [`@Lightbulb.ai`](https://lightdoc.ai/ 'Lightbulb.ai') (now LightDoc.ai)
 
   `SUM 2024`: FEE Intern [`@Amazon`](https://amazon.com)
+
+  `FAL 2024`: IT Director [`@KJHK 90.7 FM`](https://kjhk.org 'KJHK 90.7 FM') 
+
+  `SUM 2025`: Graduated from The University of Kansas with a B.Sc. in CS
 </details>
 
-`FAL 2024`: IT Director [`@KJHK 90.7 FM`](https://kjhk.org 'KJHK 90.7 FM') 
 
 —
 `.ts` `.py`
