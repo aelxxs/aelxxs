@@ -24,7 +24,7 @@ Front End Engineer @ AWS 🌧️
 —
 `.ts` `.py`
 
-**Currently**: Enjoying the PNW
+**Currently**: Working
 
 [![Recently Played](https://lastfm-recently-played.vercel.app/api?user=aelxxs&count=1)](https://www.last.fm/user/aelxxs)
 
