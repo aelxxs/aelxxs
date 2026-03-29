@@ -2,8 +2,6 @@
 
 [`@`](mailto:hi@alexis.lol 'Contact Me') · [`/website`](https://alexis.lol 'Peronsal Website') · [`/linkedin`](https://www.linkedin.com/in/aelxxs/ 'LinkedIn')
 
-Front End Engineer @ AWS 🌧️
-
 <details>
   <summary>🗂️</summary>
 
