@@ -1,4 +1,4 @@
-### Alexis Vielma – 🎓 B.Sc. CS [`@KU`](https://ku.edu 'School Website') '25
+### Alexis Vielma
 
 [`@`](mailto:hi@alexis.lol 'Contact Me') · [`/website`](https://alexis.lol 'Peronsal Website') · [`/linkedin`](https://www.linkedin.com/in/aelxxs/ 'LinkedIn')
 
